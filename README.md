@@ -22,6 +22,7 @@ Standardized tests scores for K-12 schools are reported yearly and used as a mea
 After the original district summary was completed, it was noticed that the reading and math test scores for 9th grade students from Thomas High School appeared to be altered in the student scores datafile. To prevent potential academic dishonesty from influencing school board decisions, these scores were removed and the school district analysis was repeated.
 
 
+
 ## Results
 The following compare the results from the original analysis with the updated analysis (repeat analysis with reading and math scores for Thomas High School 9th graders removed).
 
@@ -35,6 +36,7 @@ The following compare the results from the original analysis with the updated an
     
    We can see in the Updated School District Summary that the total number of students is 461 less than the original. This accurately reflects the students scores that were removed for further analysis. The average math score in the updated summary was minimally affected (0.1% lower than than the original), while the average reading score remained unaffected. The percent passing math and reading, as well as the percent passing overall were also minimally affected. 
     
+    
 
 ### *2. Per School Summary*
    Original:
@@ -44,6 +46,7 @@ The following compare the results from the original analysis with the updated an
    ![Updated Per School Summary](Resources/images/new_per_school_summary.png)
     
    The updated Per School Summary reflects minor changes to the percentage of students that passed math, reading and overall at Thomas High School. In the updated summary the percentage of students that passed math and reading at Thomas High School decreased by less than 0.5% for each metric. 
+
 
 
 ### *3. Top and Bottom 5 Performing Schools*
@@ -63,26 +66,32 @@ The following compare the results from the original analysis with the updated an
     
    Updated: 
    ![](Resources/images/new_bottom_scores_summary.png)
-    
+  
+  
 
 ### *4. Math and Reading Scores by Grade*
 
 #### Math
    Original:
+   
    ![Original Math Scores by Grade](Resources/images/original_math_scores_by_grade.png)
    
    Updated:
+   
    ![Updated Math Scores by Grade](Resources/images/new_math_scores_by_grade.png)
     
     
 #### Reading
    Original:
+   
    ![Original Reading Scores by Grade](Resources/images/original_reading_scores_by_grade.png)
     
    Updated:
+   
    ![Updated Reading Scores by Grade](Resources/images/new_reading_scores_by_grade.png)
     
    The updated tables confirm that the reading and math scores for Thomas High School 9th graders were removed while leaving the other grades unaffected. 
+    
     
 
 ### *5. Spending Summary*
@@ -95,6 +104,7 @@ The following compare the results from the original analysis with the updated an
    The metrics for passing scores based on spending per student were not impacted in the updated analysis.
 
 
+
 ### *6. School Size Summary*
    Original:
    ![Original Scores by School Size Summary](Resources/images/original_size_summary.png)
@@ -103,6 +113,7 @@ The following compare the results from the original analysis with the updated an
    ![Updated Scores by School Size Summary](Resources/images/new_size_summary.png)
     
    The metrics for passing scores based on school size were not impacted in the updated analysis.
+    
     
 
 ### *7. School Type Summary*
@@ -113,6 +124,7 @@ The following compare the results from the original analysis with the updated an
    ![Updated Scores by School Type Summary](Resources/images/new_type_summary.png)
     
    The metrics for passing scores based on school type (District or Charter) were not impacted in the updated analysis.
+
 
 
 ## Summary
