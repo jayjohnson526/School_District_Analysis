@@ -27,16 +27,20 @@ The following compare the results from the original analysis with the updated an
 
 
 ### *1. School District Summary*
+   Original:
    ![Original School District Summary](Resources/images/original_district_summary.png)
     
+   Updated:
    ![Updated School District Summary](Resources/images/new_district_summary.png)
     
    We can see in the Updated School District Summary that the total number of students is 461 less than the original. This accurately reflects the students scores that were removed for further analysis. The average math score in the updated summary was minimally affected (0.1% lower than than the original), while the average reading score remained unaffected. The percent passing math and reading, as well as the percent passing overall were also minimally affected. 
     
 
 ### *2. Per School Summary*
+   Original:
    ![Original Per School Summary](Resources/images/original_per_school_summary.png)
     
+   Updated:
    ![Updated Per School Summary](Resources/images/new_per_school_summary.png)
     
    The updated Per School Summary reflects minor changes to the percentage of students that passed math, reading and overall at Thomas High School. In the updated summary the percentage of students that passed math and reading at Thomas High School decreased by less than 0.5% for each metric. 
@@ -44,20 +48,20 @@ The following compare the results from the original analysis with the updated an
 
 ### *3. Top and Bottom 5 Performing Schools*
    Original:
-   ![Original Per School Summary](Resources/images/original_top_schools_summary.png)
+   ![](Resources/images/original_top_schools_summary.png)
     
    Updated: 
-   ![Updated Per School Summary](Resources/images/new_top_schools_summary.png)
+   ![](Resources/images/new_top_schools_summary.png)
     
    From the updated analysis, we can see that Thomas High School's performance based on overall passing rate does not affect its ranking in comparison to other schools in the district. 
     
     
    The bottom 5 schools also remain the same:
    Original:
-   ![Original Per School Summary](Resources/images/original_bottom_schools_summary.png)
+   ![](Resources/images/original_bottom_schools_summary.png)
     
    Updated: 
-   ![Updated Per School Summary](Resources/images/new_bottom_schools_summary.png)
+   ![](Resources/images/new_bottom_scores_summary.png)
     
 
 ### *4. Math and Reading Scores by Grade*
