@@ -43,55 +43,68 @@ The following compare the results from the original analysis with the updated an
 
 
 ### *3. Top and Bottom 5 Performing Schools*
+   Original:
    ![Original Per School Summary](Resources/images/original_top_schools_summary.png)
     
+   Updated: 
    ![Updated Per School Summary](Resources/images/new_top_schools_summary.png)
     
    From the updated analysis, we can see that Thomas High School's performance based on overall passing rate does not affect its ranking in comparison to other schools in the district. 
     
     
    The bottom 5 schools also remain the same:
-    
+   Original:
    ![Original Per School Summary](Resources/images/original_bottom_schools_summary.png)
     
+   Updated: 
    ![Updated Per School Summary](Resources/images/new_bottom_schools_summary.png)
     
 
 ### *4. Math and Reading Scores by Grade*
 
 #### Math
+   Original:
    ![Original Math Scores by Grade](Resources/images/original_math_scores_by_grade.png)
-    
+   
+   Updated:
    ![Updated Math Scores by Grade](Resources/images/new_math_scores_by_grade.png)
     
     
 #### Reading
+   Original:
    ![Original Reading Scores by Grade](Resources/images/original_reading_scores_by_grade.png)
     
+   Updated:
    ![Updated Reading Scores by Grade](Resources/images/new_reading_scores_by_grade.png)
     
    The updated tables confirm that the reading and math scores for Thomas High School 9th graders were removed while leaving the other grades unaffected. 
     
 
 ### *5. Spending Summary*
+   Original:
    ![Original Spending Summary](Resources/images/original_spending_summary.png)
     
+   Updated:
    ![Updated Spending Summary](Resources/images/new_spending_summary.png)
     
    The metrics for passing scores based on spending per student were not impacted in the updated analysis.
 
 
 ### *6. School Size Summary*
+   Original:
    ![Original Scores by School Size Summary](Resources/images/original_size_summary.png)
     
+   Updated:
    ![Updated Scores by School Size Summary](Resources/images/new_size_summary.png)
     
    The metrics for passing scores based on school size were not impacted in the updated analysis.
     
 
 ### *7. School Type Summary*
+   Original:
    ![Original Scores by School Type Summary](Resources/images/original_type_summary.png)
     
+   Updated:
    ![Updated Scores by School Type Summary](Resources/images/new_type_summary.png)
     
    The metrics for passing scores based on school type (District or Charter) were not impacted in the updated analysis.
