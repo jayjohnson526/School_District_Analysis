@@ -57,6 +57,7 @@ The following compare the results from the original analysis with the updated an
     
     
    The bottom 5 schools also remain the same:
+   
    Original:
    ![](Resources/images/original_bottom_schools_summary.png)
     
